@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Igor
+- 👀 I’m interested in NodeJs
+- 🌱 I’m currently learning NodeJs
+- 💞️ I’m looking to collaborate on NodeJs
+- 📫 How to reach me igorsouzabezerra@outlook.com
